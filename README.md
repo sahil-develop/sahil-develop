@@ -1,74 +1,136 @@
-# 💫 About Me:
+# 👋 Hi, I'm Sahil
 
-👋 Hi, I’m @sahil
+🚀 **Backend Engineer | AI Engineer | Cloud & Distributed Systems**
 
-Backend Engineer with 3+ years of experience building scalable backend systems, microservices, and cloud-native applications. I specialize in Node.js, NestJS, AWS, distributed systems, and AI-powered platforms.
+Backend Engineer with **3+ years of experience** building scalable backend systems, microservices, AI-powered applications, and cloud-native architectures.
 
-I’ve designed and deployed production-grade architectures from scratch for healthcare, fintech, automation, and AI-driven platforms — focusing on scalability, performance, and reliability.
-
----
-
-# 🚀 What I Do
-
-* Build scalable backend architectures & microservices
-* Design high-performance APIs using NestJS & Node.js
-* Develop cloud-native applications on AWS & Docker
-* Work with distributed systems, queues, and async workflows
-* Build AI-powered and automation platforms
-* Create CI/CD pipelines and production-ready infrastructure
+I enjoy solving complex backend problems, designing distributed systems, integrating AI into production applications, and building APIs that scale.
 
 ---
 
-# 💻 Tech Stack
+## 🚀 What I'm Working On
+
+* 🤖 AI Customer Support Systems (LLMs + Tool Calling + RAG)
+* 🧠 Retrieval-Augmented Generation (RAG)
+* ⚙️ Scalable Backend APIs
+* ☁️ AWS & Cloud Infrastructure
+* 📦 Event-Driven Microservices
+* 🔄 Workflow Automation Platforms
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+* JavaScript
+* TypeScript
+* Python
 
-### Backend & Frameworks
+### Backend
 
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
+* Node.js
+* NestJS
+* Express
+* FastAPI
+* Django
+* Flask
+* GraphQL
+
+### AI
+
+* OpenAI
+* Groq
+* LangChain
+* ChromaDB
+* RAG
+* MCP
+* Tool Calling
+* Vector Databases
 
 ### Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge\&logo=terraform\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+* AWS
+* Docker
+* Kubernetes
+* Terraform
+* GitHub Actions
 
-### Databases & Messaging
+### Databases
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
-
----
-
-# 🌟 Featured Work
-
-* Built ADR automation platform supporting 10+ services
-* Designed scalable healthcare marketing backend systems
-* Developed Stripe & crypto payment integrations
-* Architected microservices with RabbitMQ & Redis
-* Improved API performance by 40% through optimization
-* Built AI-powered RAG systems and automation workflows
+* PostgreSQL
+* MongoDB
+* Redis
+* RabbitMQ
 
 ---
 
-# 🌐 Portfolio & Profiles
+# 🌟 Featured Projects
 
-* Portfolio: [https://sahil-who-develops.vercel.app/](https://sahil-who-develops.vercel.app/)
-* GitHub: [https://github.com/sahil-develop](https://github.com/sahil-develop)
-* LinkedIn: [https://www.linkedin.com/in/sahil02824/](https://www.linkedin.com/in/sahil02824/)
+### 🤖 AI Order Chat System
+
+Multi-tenant AI-powered customer support platform featuring:
+
+* Groq LLM
+* Tool Calling
+* ChromaDB (RAG)
+* Session Memory
+* Smart Order Cancellation
+* Inventory Search
+* Policy Search
 
 ---
 
-⭐ Open to backend engineering, cloud infrastructure, AI applications, and scalable system design collaborations.
+### ⚖️ ADR Automation Platform
+
+Enterprise-grade dispute resolution platform featuring:
+
+* Case Management
+* RBAC
+* Billing & Invoicing
+* Zoom Integration
+* QuickBooks Integration
+* Async Processing
+* Production APIs
+
+---
+
+### 📚 HR Policy RAG System
+
+AI assistant capable of answering HR policy questions using Retrieval-Augmented Generation (RAG).
+
+---
+
+## 📈 Experience
+
+* Designed production backend architectures from scratch
+* Built scalable APIs serving thousands of requests
+* Improved API performance by **40%**
+* Developed AI-powered automation platforms
+* Built cloud-native microservices
+* Integrated payment gateways, CRMs, Zoom, QuickBooks, and AI services
+
+---
+
+# 💻 Currently Learning
+
+* Advanced AI Agents
+* Model Context Protocol (MCP)
+* Kubernetes
+* Go
+* Java + Spring Boot
+* Distributed Systems Design
+
+---
+
+# 📫 Connect With Me
+
+🌐 Portfolio: https://sahil-who-develops.vercel.app/
+
+💼 LinkedIn: https://www.linkedin.com/in/sahil02824/
+
+💻 GitHub: https://github.com/sahil-develop
+
+---
+
+⭐ **Open to Backend Engineer, AI Engineer, Platform Engineer, and Cloud Engineering opportunities.**
